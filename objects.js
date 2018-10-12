@@ -24,4 +24,4 @@ var meals = {
 
 Object.assign({}, meals, {breakfast:['oatmeal', 'banana'] });
 
-var playlist = {};
+var playlist = {artistName: "song"};
